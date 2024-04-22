@@ -1,0 +1,22 @@
+.fondo-servicios {
+    background-color: #FFE5E5;
+    background-position: fixed;
+    z-index:-1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 30px;
+}
+
+p {
+    color:black;
+    text-align:justify;
+    font-size: 16px;
+    font-family: 'Poppins';
+    padding-right: 48px;
+    padding-left: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-top: 20px;
+    margin-top:10px;
+}

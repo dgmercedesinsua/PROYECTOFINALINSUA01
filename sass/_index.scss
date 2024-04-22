@@ -1,0 +1,45 @@
+/*.fotodefondo {
+    display: inline;
+    background-position-x: center;
+}
+
+.foto-bg {
+    width: 100%;
+}
+
+.tituloImagen {
+    position: absolute; acá me deja el bloque sobre la foto
+    bottom: 8px;
+    right: 16px;
+  }
+
+*/
+
+.fotodefondo{
+    position: relative;
+    text-align: center;
+    color: #ac87c5;
+    }
+    
+.foto-bg {
+        width: 100%;
+    }
+    
+.tituloImagen {
+        position: absolute; /*acá me deja el bloque sobre la foto*/
+        bottom: 8px;
+        right: 16px;
+        background-color:#FFE5E5;
+        border-radius: 10px;
+        padding: 10px 25px 10px 25px;
+        outline-style: dashed;
+        margin-left: 10px;
+        margin-right: 10px;
+        margin-top:10px;
+        margin-bottom:10px;
+        font-size: 3vw;
+        font-weight: bold;
+      }
+
+
+
